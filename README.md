@@ -10,7 +10,7 @@
 
 - jquery 1.12.3
 - [bootstrap 3.3.0](http://www.bootcdn.cn/)
-- [font-awesome 4.7.0](http://www.bootcdn.cn/)
+- [font-awesome 4.7.0](http://fontawesome.dashgame.com)
 - [wangEditor v3](https://www.kancloud.cn/wangfupeng/wangeditor3/332599)
 - [wangEditor-fullscreen-plugin](https://github.com/chris-peng/wangEditor-fullscreen-plugin)
 
