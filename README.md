@@ -16,4 +16,4 @@
 
 ### 图片参考
 
-![动图](demo/bootstrap评论框 - 示例.gif)
+![动图](https://github.com/zhangyd-c/bootstrap-comment-box/blob/master/demo/bootstrap%E8%AF%84%E8%AE%BA%E6%A1%86%20-%20%E7%A4%BA%E4%BE%8B.gif)
